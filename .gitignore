@@ -1,0 +1,7 @@
+# ModelSim / QuestaSim simulation files
+work/
+transcript
+vsim.wlf
+*.wlf
+modelsim.ini
+*.vstf
